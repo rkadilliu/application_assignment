@@ -10,7 +10,7 @@ By the end of this project you will:
 
 ## Introduction
 
-Our intern Dan is working on this killer Movie Quotes App that returns a random movie quote. Right now all it does is render a blank screen in the web browser. Fork the repository found here and help Dan fix it.  
+Our intern Dan is working on this killer Movie Quotes App that returns a random movie quote. Right now all it does is render a blank screen in the web browser. Fork the repository found here and help Dan fix it.
 
 ## Specifications
 
@@ -30,3 +30,7 @@ Please include the url to your forked repository with the fixed webserver in you
 
 - [Random Movie Quotes NPM Docummentation](https://www.npmjs.com/package/random-movie-quotes)
 - [How to contribute to a github project](https://akrabat.com/the-beginners-guide-to-contributing-to-a-github-project/)
+
+## Running the web server
+
+- run node index.js to start the web server and view your app on localhost:3000
